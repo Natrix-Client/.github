@@ -1,5 +1,5 @@
 🚀 Natrix Client https://natrixclient.github.io/
-<p align="center"> <b>Performance • Smoothness • Clean PvP Experience</b><br> Minecraft 1.8.9 PvP Client </p> <p align="center"> <img src="https://img.shields.io/badge/Minecraft-1.8.9-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Forge-Required-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge"> <img src="https://img.shields.io/github/stars/NatrixClient?style=for-the-badge"> </p>
+<p align="center"> <b>Performance • Smoothness • Clean PvP Experience</b><br> Minecraft 1.8.9 PvP Client </p> <p align="center"> 
 🧭 About Natrix
 
 Natrix Client is a Minecraft PvP client organization focused on delivering a high-performance, customizable, and smooth gameplay experience for 1.8.9 PvP.
