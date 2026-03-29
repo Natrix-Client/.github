@@ -1,3 +1,5 @@
+#.github
+
 Natrix Client (1.8.9 PvP Client)
 
 Natrix Client is a performance-focused Minecraft PvP client developed under the Natrix Client Organization, built specifically for Minecraft 1.8.9.
